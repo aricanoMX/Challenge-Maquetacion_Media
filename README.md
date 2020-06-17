@@ -13,4 +13,4 @@
 
 - _Unicamente presiona el link que te dejo abajo_
 
-[Ver Proyecto](https://aricanomx.github.io/Retos_PlatziMaster/Ejercicio%20de%20Maquetaci%C3%B3n%20Medio/)
+[Ver Proyecto](https://aricanomx.github.io/PM_Reto-Maquetacion-Medio/)
